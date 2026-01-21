@@ -7,7 +7,9 @@ This project implements a sophisticated machine learning solution for predicting
 📊 Model Performance
 
 R² Score: 0.9825 ⭐ (98.25% variance explained!)
+
 RMSE: ₹2,293.62 Lakhs
+
 Algorithm: Gradient Boosting Regressor with optimized hyperparameters 🚀
 
 🔑 Key Features
